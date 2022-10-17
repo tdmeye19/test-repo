@@ -1,0 +1,12 @@
+---
+title: "17oct-2022"
+author: "Trent Meyer"
+date: "10/17/2022"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+This is for testing whether my RStudio server and GitHub are connected!
